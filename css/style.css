@@ -322,15 +322,15 @@ footer {
 
 /* Media queries */
 
-@media (min-width: 992px) {
+@media (max-width: 992px) {
   .header__container {
-    background-color: #ffffffc4;
+    background-color: #ffffffc4 !important;
 }
 .header__container h1 {
-  color: #000;
+  color: #000 !important;
 }
 .section__title {
-  color: #000;
+  color: #000 !important;
 }
 }
 
