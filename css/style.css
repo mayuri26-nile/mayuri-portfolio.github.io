@@ -332,6 +332,9 @@ footer {
 .section__title {
   color: #000 !important;
 }
+  nav .nav__logo a {
+    color: #000;
+}
 }
 
 @media (min-width: 640px) {
